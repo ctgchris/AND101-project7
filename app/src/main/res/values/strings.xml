@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="random">Click for random pokemons!</string>
+    <string name="pokemon_description">Pokemon Description</string>
+    <string name="user_input">Pokemon Name</string>
+    <string name="already_had_a_choice">Already had a choice?</string>
+    <string name="pokemon_s_image">Pokemon\'s image</string>
+    <string name="attribute">Attribute</string>
+</resources>
